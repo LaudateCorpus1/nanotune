@@ -10,7 +10,7 @@ bleach==5.0.1
 broadbean==0.11.0
 cached-property==1.5.2
 cachetools==5.2.0
-certifi==2022.6.15
+certifi==2022.9.14
 cffi==1.15.1
 cftime==1.6.1
 chardet==5.0.0
@@ -29,7 +29,7 @@ google-auth~=2.11.0
 googleapis-common-protos~=1.56.4
 google-auth~=2.11.0
 googleapis-common-protos~=1.56.4
-grpcio==1.48.0
+grpcio==1.49.0
 h5py==3.7.0
 idna==3.3
 imageio==2.21.2
@@ -116,7 +116,7 @@ Send2Trash==1.8.0
 six==1.16.0
 smmap==5.0.0
 tabulate==0.8.10
-termcolor==1.1.0
+termcolor==2.0.1
 terminado==0.15.0
 testpath==0.6.0
 threadpoolctl==3.1.0
