@@ -81,7 +81,7 @@ prettytable==3.5.0
 prometheus-client==0.15.0
 prompt-toolkit==3.0.31
 protobuf==4.21.11
-psutil==5.9.2
+psutil==5.9.4
 ptyprocess==0.7.0
 py==1.11.0
 pyasn1==0.4.8
