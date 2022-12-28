@@ -61,7 +61,7 @@ nbclient==0.7.2
 nbconvert==7.2.7
 nest-asyncio==1.5.5
 netCDF4==1.6.2
-notebook==6.4.12
+notebook==6.5.2
 numpy==1.21.6
 oauthlib==3.2.1
 opencensus-context==0.1.3
