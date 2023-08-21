@@ -23,7 +23,7 @@ defusedxml==0.7.1
 entrypoints==0.4
 execnet==1.9.0
 flatbuffers==2.0
-gast==0.5.3
+gast==0.5.4
 google-api-core~=2.8.2
 google-auth~=2.9.1
 googleapis-common-protos~=1.56.4
