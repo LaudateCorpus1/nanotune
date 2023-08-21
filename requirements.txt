@@ -110,7 +110,7 @@ schema==0.7.5
 scikit-image==0.19.3
 scikit-learn==1.0.2
 scipy==1.7.3
-Send2Trash==1.8.0
+Send2Trash==1.8.2
 six==1.16.0
 smmap==5.0.0
 tabulate==0.8.10
